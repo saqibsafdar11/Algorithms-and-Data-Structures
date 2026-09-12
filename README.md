@@ -32,8 +32,4 @@ The notebook provides the public project artefact; this topic list describes the
 
 Open the notebook on GitHub, or use Jupyter locally. Its pseudocode cells are intended to be read rather than executed.
 
-## Acknowledgement
-
-Thank you to [Fahad Panolan](https://www.linkedin.com/in/fahad-panolan-a901952ba/) for the teaching and guidance.
-
 [Full portfolio](https://saqibsafdar.com/projects/) · [GitHub profile](https://github.com/saqibsafdar11)
